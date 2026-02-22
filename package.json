@@ -8,6 +8,7 @@
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.13.5",
+    "build": "^0.1.4",
     "nodemon": "^3.1.13",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
@@ -23,7 +24,7 @@
     "dev": "nodemon server.js"
   },
   "eslintConfig": {
-    "extends": [
+    "extends": [  
       "react-app",
       "react-app/jest"
     ]
