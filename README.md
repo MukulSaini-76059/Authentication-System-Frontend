@@ -37,7 +37,7 @@ It allows users to register, login, and access a protected dashboard using **JWT
 
 ### 1. Clone the repository
 
-git clone https://github.com/MukulSaini-76059/Frontend.git
+https://github.com/MukulSaini-76059/Authentication-System-Frontend
 
 ### 2. Install dependencies
 
@@ -68,7 +68,7 @@ src/
 ## 🔗 Backend Repository
 
 Backend GitHub:  
-https://github.com/MukulSaini-76059/Backend
+https://github.com/MukulSaini-76059/Authentication-System-Backend
 
 
 ## 👨‍💻 Author
